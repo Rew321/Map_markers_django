@@ -14,6 +14,6 @@ Note, vesions supported.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
+
 
 Having any issues? reach out to me here, rew.dev23@gmail.com
